@@ -11,7 +11,7 @@ This repo contains 21 hands-on projects focused on data analysis, visualization,
 |-----|--------|------|
 | 1 | Titanic Survival Analysis |## ▶️ Open Notebook
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1bS5WTeH6iHpw0ka5MR0xdKn6U03F2NLq?usp=sharing))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bS5WTeH6iHpw0ka5MR0xdKn6U03F2NLq?usp=sharing)
 
 *(More projects coming soon...)*
 
