@@ -1,4 +1,4 @@
-# 📊 21 Days 21 Data Analysis Projects
+# 📊 My Data Analysis Learning Journey
 
 Welcome to my data analytics project repository!  
 This repo contains 21 hands-on projects focused on data analysis, visualization, and business insights.
