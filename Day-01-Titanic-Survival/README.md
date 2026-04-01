@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Analysis
+# 🚢Data Storytelling: Analysing Survival on the Titanic
 
 ## 📌 Objective
 Analyze survival patterns using passenger data.
