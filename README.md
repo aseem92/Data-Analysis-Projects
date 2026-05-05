@@ -1,7 +1,7 @@
 # 📊 My Data Analysis Learning Journey
 
 Welcome to my data analytics project repository!  
-This repo contains 21 hands-on projects focused on data analysis, visualization, and business insights.
+This repo contains hands-on projects focused on data analysis, visualization, and business insights.
 
 ---
 
