@@ -10,6 +10,7 @@ This repo contains hands-on projects focused on data analysis, visualization, an
 | Day | Project ||
 |-----|--------|------|
 | 1 | Titanic Survival Analysis |
+| 2| IMDB-Movie-Analysis |
 
 *(More projects coming soon...)*
 
@@ -19,7 +20,6 @@ This repo contains hands-on projects focused on data analysis, visualization, an
 
 - Python (Pandas, NumPy)
 - Data Visualization (Matplotlib, Seaborn)
-- SQL (Learning)
 - Power BI (Dashboarding)
 
 ---
