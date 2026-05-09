@@ -144,7 +144,6 @@ The analysis combines:
 * structured data cleaning
 * historical trend analysis
 * audience segmentation
-* interactive visualization
 
 to transform raw IMDb data into actionable storytelling insights.
 
