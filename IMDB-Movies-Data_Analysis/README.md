@@ -126,7 +126,6 @@ While Kids and Family content maintained stable production levels, Adult and Fam
 * Temporal Data Analysis
 * Feature Engineering
 * Regex-based Parsing
-* Data Visualization
 * Trend Analysis
 * Audience Segmentation
 * Analytical Storytelling
